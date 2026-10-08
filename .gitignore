@@ -36,7 +36,6 @@ cover.html
 .glide/
 
 # editor and IDE paraphernalia
-.vscode/
 .idea/
 .history/
 .run/
@@ -71,3 +70,5 @@ pkg/cli/cluster/charts/
 hack/github.com/
 
 
+config.bat
+node_modules
